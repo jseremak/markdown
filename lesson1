@@ -1,0 +1,38 @@
+markdown .md
+
+JAVA - JĘZYK IMPERATYWNY
+JAVA > P-CODE - Wspólny dla wszystkich maszyn 
+
+intellojay autoscrol to/from source  pod trybikiem zaznaczyc,
+
+main tab otwiera program
+sout printuje
+ctrl W zaznacza coraz więcej
+alt kursor przechodzi miedzy plikami
+
+analyze uzywać
+refactor -  uzywac
+#coding style
+*ctrl alt L - układa kod w sposób ladny
+*klasa z duzej litery ClassMyNew - każdy wyraz z dużej, klasy nazywane sa rzeczownikami w jezyku ang
+wciecia o 4 znaki
+
+#BOOL logika TRUE/FALSE
+&& and
+000 fałsz
+010 fałsz
+100 fałsz
+111 prawda
+
+II or lub
+000
+011
+101
+111
+
+XOR albo
+000
+011
+101
+110
+
