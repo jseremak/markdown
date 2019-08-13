@@ -24,7 +24,7 @@ wciecia o 4 znaki
 100 fałsz
 111 prawda
 
-II or lub
+|| or lub
 000
 011
 101
@@ -35,4 +35,41 @@ XOR albo
 011
 101
 110
+ 
+~ negacja
+0 1
+1 0
 
+JAVA 
+INT 4 bajty 32 bity OKOŁO 2 MLD WARTOŚCI
+LONG 8 bajtów 64 bity cyli mega dużo
+
+SHORT 2 bajty 653 liczby
+
+BYTE 128 LICZB -128 +127
+
+#ARYTMETYKA KONGRUENTNA
+pierścień - licznik przekreca się w zaleznosci od zakresu np 
+128 LICZB -128 +127
+
+LICZBY ZMIENNOPRZECINKOWE FLOAT
+NA 4 BAJTACH
+
+DOUBLE NA 8 BAJTACH
+INF 
++INF
+-INF
++0,0
+-0,0
+
+
+#LITERAŁ wartośc podana literalnie
+1 int
+1. float
+1.d double
+1L long
+
+Język ma silne typowanie np we float nie wpiszemy booleana
+namng convenion dla danych mala litera (wlasciwie tylko Klasy wielką)
+zmienna ma swój chcrakter i wartość niezmienną do klamerki
+nazwy zmiennych musza cos znaczyc
