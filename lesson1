@@ -73,3 +73,13 @@ Język ma silne typowanie np we float nie wpiszemy booleana
 namng convenion dla danych mala litera (wlasciwie tylko Klasy wielką)
 zmienna ma swój chcrakter i wartość niezmienną do klamerki
 nazwy zmiennych musza cos znaczyc
+
+ b %= 5; modulo reszta z dzielenia przez 5
+ 
+~ ( A && B )   ~ A || ~ B rownowazne
+~ ( A|| B )   ~ A  && ~ B rownowazne
+
+
+#CONSTRUCTOR
+konstruktor ma nazwe jak nazwa klasy 
+
