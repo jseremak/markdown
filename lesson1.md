@@ -14,13 +14,13 @@ ctrl W zaznacza coraz więcej
 
 alt kursor przechodzi miedzy plikami
 
-#używać 
+# używać 
 
 analyze 
 
 refactor 
 
-#coding style
+# coding style
 
 *ctrl alt L - układa kod w sposób ladny
 
@@ -28,9 +28,9 @@ refactor
 
 wciecia o 4 znaki
 
-#BOOL logika TRUE/FALSE
+# BOOL logika TRUE/FALSE
 
-#&& and
+# && and
 
 000 fałsz
 
@@ -40,7 +40,7 @@ wciecia o 4 znaki
 
 111 prawda
 
-#|| or lub
+# || or lub
 
 000
 
@@ -50,7 +50,7 @@ wciecia o 4 znaki
 
 111
 
-#XOR albo
+# XOR albo
 
 000
 
@@ -60,13 +60,13 @@ wciecia o 4 znaki
 
 110
  
-#~ negacja
+# ~ negacja
 
 0 1
 
 1 0
 
-#JAVA wartoßci
+# JAVA wartoßci
 
 INT 4 bajty 32 bity OKOŁO 2 MLD WARTOŚCI
 
@@ -92,7 +92,7 @@ INF
 -0,0
 
 
-#ARYTMETYKA KONGRUENTNA
+# ARYTMETYKA KONGRUENTNA
 
 pierścień - licznik przekreca się w zaleznosci od zakresu np 
 128 LICZB -128 +127
@@ -101,13 +101,13 @@ pierścień - licznik przekreca się w zaleznosci od zakresu np
 
 
 
-#LITERAŁ wartośc podana literalnie
+# LITERAŁ wartośc podana literalnie
 1 int
 1. float
 1.d double
 1L long
 
-#Język JAVA ma silne typowanie 
+# Język JAVA ma silne typowanie 
 
 np we float nie wpiszemy booleana
 
@@ -124,6 +124,6 @@ nazwy zmiennych musza cos znaczyc
 ~ ( A|| B )   ~ A  && ~ B rownowazne
 
 
-#CONSTRUCTOR
+# CONSTRUCTOR
 konstruktor ma nazwe jak nazwa klasy 
 
