@@ -1,10 +1,12 @@
-markdown .md
+# markdown .md
 
-JAVA - JĘZYK IMPERATYWNY
+# JAVA - JĘZYK IMPERATYWNY
 
 JAVA > P-CODE - Wspólny dla wszystkich maszyn 
 
-intellijay autoscrol to/from source  pod trybikiem zaznaczyc,
+# intellijay autoscrol to/from source  pod trybikiem zaznaczyc,
+
+# JAVA używać 
 
 main tab otwiera program
 
@@ -13,8 +15,6 @@ sout printuje
 ctrl W zaznacza coraz więcej
 
 alt kursor przechodzi miedzy plikami
-
-# używać 
 
 analyze 
 
