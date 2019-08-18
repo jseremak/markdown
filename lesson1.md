@@ -1,4 +1,10 @@
 # markdown .md
+# doczytac
+klasy: rzeczownik, z wielkiej litery, w razie potrzeby CamelCase
+metody/funkcje: czasownik, z małej litery, w razie potrzeby camelCase
+zmienne, argumenty metod: rzeczownik, z małej litery, w razie potrzeby camelCase
+public static void main(String[] args) 
+boolean
 
 # JAVA - JĘZYK IMPERATYWNY
 
@@ -29,6 +35,7 @@ refactor
 wciecia o 4 znaki
 
 # BOOL logika TRUE/FALSE
+BOOLEAN zmienna logiczna
 
 # && and
 
@@ -66,7 +73,7 @@ wciecia o 4 znaki
 
 1 0
 
-# JAVA wartoßci
+# JAVA ZMIENNE
 
 INT 4 bajty 32 bity OKOŁO 2 MLD WARTOŚCI
 
@@ -76,7 +83,7 @@ SHORT 2 bajty 653 liczby
 
 BYTE 128 LICZB -128 +127
 
-LICZBY ZMIENNOPRZECINKOWE FLOAT
+FLOAT LICZBY ZMIENNOPRZECINKOWE
 NA 4 BAJTACH
 
 DOUBLE NA 8 BAJTACH
@@ -126,4 +133,17 @@ nazwy zmiennych musza cos znaczyc
 
 # CONSTRUCTOR
 konstruktor ma nazwe jak nazwa klasy 
+
+# OPERATORY
+
+== sprawdza równość
+
+!= różny
+
+>= większy równy
+   
+<= mniejszy równy
+
+> , < większy, mniejszy
+
 
