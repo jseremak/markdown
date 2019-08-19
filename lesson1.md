@@ -1,18 +1,37 @@
 # markdown .md
-# doczytac
-klasy: rzeczownik, z wielkiej litery, w razie potrzeby CamelCase
-metody/funkcje: czasownik, z małej litery, w razie potrzeby camelCase
-zmienne, argumenty metod: rzeczownik, z małej litery, w razie potrzeby camelCase
-public static void main(String[] args) 
-boolean
 
-# JAVA - JĘZYK IMPERATYWNY
+# GIT
 
-JAVA > P-CODE - Wspólny dla wszystkich maszyn 
+COMMIT - DUZY SAVE ZAPKOWANIE PACZKI PLIKOW TYLKO LOKALNIE
 
-# intellijay autoscrol to/from source  pod trybikiem zaznaczyc,
+BRANCH MASTER MA BYC PUSTY 
 
-# JAVA używać 
+TWORZENIE NOWEGO BRANCHA MASTER > CHECKOUT - PUSTA TABLICA I Z NIEJ ZAKLADAMY NOWY BRANCH (PUSTY)
+
+CHECKOUT PRZELACZA MEDZY BRANCHAMI
+
+kazdy commit powinien miec opis
+
+PUSH PO COMMITCIE ZMIANY TRAFIA DO ZDALNEGO REPO
+
+PULL POBRANIE I SYNCHRONIZACJA PLUS ZMIANY W STRUKTURZE KATALOGOW
+
+FETCH TYLKO ZMIANY W KATALOGACH
+
+CLONE - KLONOWANIE REPOZYTORIUM NA NOWYM KOMPIE
+
+# CODE REVIEW - przed pull requestem
+
+
+
+# INTELLIJ 
+
+SCIAGNAC WERSJE COMMUNITY
+
+autoscrol to/from source  pod trybikiem zaznaczyc,
+
+przy COMMITCIE ODPTASZYĆ CODE ANALYSIS I CHECK TO DO
+
 
 main tab otwiera program
 
@@ -34,10 +53,31 @@ refactor
 
 wciecia o 4 znaki
 
-# BOOL logika TRUE/FALSE
-BOOLEAN zmienna logiczna
 
-# && and
+# NAZEWNICTWO
+
+klasy: rzeczownik, z wielkiej litery, w razie potrzeby CamelCase
+
+metody/funkcje: czasownik, z małej litery, w razie potrzeby camelCase
+dotycza czynnosci
+
+zmienne, argumenty metod: rzeczownik, z małej litery, w razie potrzeby camelCase
+
+
+# JAVA - JĘZYK IMPERATYWNY
+
+JAVA > P-CODE - Wspólny dla wszystkich maszyn 
+
+
+
+
+# BOOL logika TRUE/FALSE
+
+BOOLEAN zmienna logiczna PRAWDA ALBO FALSZ
+
+
+
+# && and koniunkcja
 
 000 fałsz
 
@@ -67,11 +107,19 @@ BOOLEAN zmienna logiczna
 
 110
  
-# ~ negacja
+# ~ ! negacja
 
 0 1
 
 1 0
+
+# KOLEJNOSC WYKONYWANIA DZIALAN
+
+MNOZENIE LEWOSTRONNIE LACZNE
+
+POTEGOWANIE PRAWOSTRONNIE LACZNE
+
+
 
 # JAVA ZMIENNE
 
@@ -81,12 +129,12 @@ LONG 8 bajtów 64 bity cyli mega dużo
 
 SHORT 2 bajty 653 liczby
 
-BYTE 128 LICZB -128 +127
+BYTE 256 LICZB -128 +127
 
 FLOAT LICZBY ZMIENNOPRZECINKOWE
 NA 4 BAJTACH
 
-DOUBLE NA 8 BAJTACH
+DOUBLE ZMINNOPRZECINKOWA NA 8 BAJTACH
 
 INF 
 
@@ -146,4 +194,8 @@ konstruktor ma nazwe jak nazwa klasy
 
 > , < większy, mniejszy
 
+
+# LICZBY PRZYJAZNE DLA KOMPA
+
+2 4 8 16 32 64 128 256 512 1024 ...
 
